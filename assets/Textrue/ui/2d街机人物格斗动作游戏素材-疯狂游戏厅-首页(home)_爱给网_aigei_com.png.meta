@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cad92cdf-4337-4ab7-b94a-3a0de7b60c7c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 120,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "2d街机人物格斗动作游戏素材-疯狂游戏厅-首页(home)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "de30d01a-9514-43f4-9c2c-0487e06be821",
+      "rawTextureUuid": "cad92cdf-4337-4ab7-b94a-3a0de7b60c7c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 18,
+      "trimY": 6,
+      "width": 83,
+      "height": 110,
+      "rawWidth": 120,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fcb23f35-acd2-49a5-a62d-b5767aaabc68"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "dcfbafbd-a582-46b4-829e-044e9ddcd93e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

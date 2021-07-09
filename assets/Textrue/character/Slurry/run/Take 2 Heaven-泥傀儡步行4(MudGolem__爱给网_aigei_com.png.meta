@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1b9fd934-c816-4c26-8cc2-9454324285bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 260,
+  "height": 220,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-泥傀儡步行4(MudGolem__爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "1dd09f3b-20b2-423b-a65e-f990927c8858",
+      "rawTextureUuid": "1b9fd934-c816-4c26-8cc2-9454324285bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6,
+      "offsetY": -7.5,
+      "trimX": 49,
+      "trimY": 46,
+      "width": 174,
+      "height": 143,
+      "rawWidth": 260,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

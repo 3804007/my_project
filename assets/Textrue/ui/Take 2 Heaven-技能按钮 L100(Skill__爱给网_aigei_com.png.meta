@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "05fe4fc9-18b8-4cb6-83a3-a3b50fa0654a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-技能按钮 L100(Skill__爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "82546588-1a7c-4423-9b7b-2470b6936f23",
+      "rawTextureUuid": "05fe4fc9-18b8-4cb6-83a3-a3b50fa0654a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 176,
+      "height": 176,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

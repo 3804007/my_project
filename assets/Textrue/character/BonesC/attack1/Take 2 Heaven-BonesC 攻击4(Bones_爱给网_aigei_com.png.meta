@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2515646e-7371-44f3-8168-d4b8a321f581",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 380,
+  "height": 290,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-BonesC 攻击4(Bones_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "b99a9cd9-c994-4172-a32c-0a7c57cb8cee",
+      "rawTextureUuid": "2515646e-7371-44f3-8168-d4b8a321f581",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -18,
+      "offsetY": -27,
+      "trimX": 23,
+      "trimY": 70,
+      "width": 298,
+      "height": 204,
+      "rawWidth": 380,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

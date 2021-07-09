@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cf22bdf1-242f-4acb-a501-89fdee30095c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 637,
+  "height": 377,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-标题(Title)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "896d791a-91b4-428d-945d-1f156bd99238",
+      "rawTextureUuid": "cf22bdf1-242f-4acb-a501-89fdee30095c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 637,
+      "height": 377,
+      "rawWidth": 637,
+      "rawHeight": 377,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

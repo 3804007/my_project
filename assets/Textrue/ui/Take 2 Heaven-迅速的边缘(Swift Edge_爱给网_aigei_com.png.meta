@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "86148b2a-6869-43ad-8fa4-00cc10d8d958",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-迅速的边缘(Swift Edge_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "dfe0d46c-128d-4107-92ee-f9249d68d2ab",
+      "rawTextureUuid": "86148b2a-6869-43ad-8fa4-00cc10d8d958",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -17.5,
+      "trimX": 46,
+      "trimY": 63,
+      "width": 89,
+      "height": 89,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

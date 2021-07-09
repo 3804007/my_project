@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "607fb7fd-5715-4cef-bd83-11c99754063e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 310,
+  "height": 210,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-雪人空闲4(Snowman_Id_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "1502bcb6-3b04-4514-b462-4cf6cce8aa84",
+      "rawTextureUuid": "607fb7fd-5715-4cef-bd83-11c99754063e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": -6,
+      "trimX": 77,
+      "trimY": 22,
+      "width": 171,
+      "height": 178,
+      "rawWidth": 310,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

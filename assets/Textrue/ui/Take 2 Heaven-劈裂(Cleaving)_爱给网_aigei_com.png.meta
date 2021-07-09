@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9ee2f3e9-ee14-4f78-8dae-c646d8c68dc6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-劈裂(Cleaving)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "c28afddf-923d-4dff-b73e-7bf6918ffc8f",
+      "rawTextureUuid": "9ee2f3e9-ee14-4f78-8dae-c646d8c68dc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -17.5,
+      "trimX": 46,
+      "trimY": 63,
+      "width": 89,
+      "height": 89,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

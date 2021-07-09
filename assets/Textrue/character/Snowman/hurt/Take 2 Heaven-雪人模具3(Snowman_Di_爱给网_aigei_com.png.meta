@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3f2fda04-327e-4c28-8bbe-037f566e1e58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 310,
+  "height": 210,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-雪人模具3(Snowman_Di_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "4e26db27-483e-4e45-93f8-72909e4a17a9",
+      "rawTextureUuid": "3f2fda04-327e-4c28-8bbe-037f566e1e58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 30.5,
+      "offsetY": -15.5,
+      "trimX": 67,
+      "trimY": 41,
+      "width": 237,
+      "height": 159,
+      "rawWidth": 310,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

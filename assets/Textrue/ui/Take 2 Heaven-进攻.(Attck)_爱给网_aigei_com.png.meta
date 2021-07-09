@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fe0aa4bd-9a61-48bb-a8cd-ba7687889a37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-进攻.(Attck)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "1cd0ec49-f15e-47c6-9c38-c2dc0c561cc4",
+      "rawTextureUuid": "fe0aa4bd-9a61-48bb-a8cd-ba7687889a37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 33,
+      "trimY": 32,
+      "width": 115,
+      "height": 115,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

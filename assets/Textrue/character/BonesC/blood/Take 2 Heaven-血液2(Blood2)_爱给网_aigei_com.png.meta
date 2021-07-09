@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f3a9a982-def7-46fa-8fd8-49632232a9a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 90,
+  "height": 50,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-血液2(Blood2)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "8cb5224a-08fd-472f-8b57-7188b08db413",
+      "rawTextureUuid": "f3a9a982-def7-46fa-8fd8-49632232a9a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1.5,
+      "trimX": 12,
+      "trimY": 4,
+      "width": 67,
+      "height": 39,
+      "rawWidth": 90,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bf3d1cc9-2e54-449b-ba7d-7e43505e65ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 260,
+  "height": 220,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-空闲的泥傀儡2(MudGolem_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "6b6fdfc6-2037-4833-ac06-71c1654a79b4",
+      "rawTextureUuid": "bf3d1cc9-2e54-449b-ba7d-7e43505e65ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -5.5,
+      "trimX": 29,
+      "trimY": 40,
+      "width": 203,
+      "height": 151,
+      "rawWidth": 260,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

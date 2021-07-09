@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "96e52a73-a58e-4122-b2a2-114e903e0245",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 375,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-GavielG 印章2(Gavi_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "c1ca6498-e8df-456c-a321-294286a9b29a",
+      "rawTextureUuid": "96e52a73-a58e-4122-b2a2-114e903e0245",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -8,
+      "trimX": 137,
+      "trimY": 80,
+      "width": 172,
+      "height": 231,
+      "rawWidth": 450,
+      "rawHeight": 375,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "530f9d92-24f0-4b88-afef-90fbb4438511",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-暂停(pause)_爱给网_aigei_com (1)": {
+      "ver": "1.0.4",
+      "uuid": "a67e1644-a484-46a5-bd26-413cca655ac9",
+      "rawTextureUuid": "530f9d92-24f0-4b88-afef-90fbb4438511",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -32.5,
+      "trimX": 62,
+      "trimY": 95,
+      "width": 56,
+      "height": 55,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

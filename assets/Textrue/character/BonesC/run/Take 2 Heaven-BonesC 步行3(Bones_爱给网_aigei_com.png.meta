@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8893a466-0aa0-4c23-897c-40f1913f7c26",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 380,
+  "height": 290,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-BonesC 步行3(Bones_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "213ee6d3-8e53-40df-a2ec-addda51c4cce",
+      "rawTextureUuid": "8893a466-0aa0-4c23-897c-40f1913f7c26",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16,
+      "offsetY": -21,
+      "trimX": 86,
+      "trimY": 58,
+      "width": 240,
+      "height": 216,
+      "rawWidth": 380,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

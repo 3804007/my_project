@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "61318e79-dd73-44b9-b853-e8bd7ba33bf3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 375,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-GavielG 帕里3": {
+      "ver": "1.0.4",
+      "uuid": "631d1296-3794-4388-95d6-b30fe84ddee4",
+      "rawTextureUuid": "61318e79-dd73-44b9-b853-e8bd7ba33bf3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16.5,
+      "offsetY": 8,
+      "trimX": 139,
+      "trimY": 18,
+      "width": 205,
+      "height": 323,
+      "rawWidth": 450,
+      "rawHeight": 375,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "660ad78d-810e-4fb2-8ca8-348e0e30af69",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 639,
+  "height": 360,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-战斗结果弹出(BattleRes_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "b7a50ded-67ce-4058-8921-237c3cc4afd7",
+      "rawTextureUuid": "660ad78d-810e-4fb2-8ca8-348e0e30af69",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 639,
+      "height": 360,
+      "rawWidth": 639,
+      "rawHeight": 360,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

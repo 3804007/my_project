@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a433d645-77c5-4482-bc7e-5e604ac8061b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 114,
+  "height": 115,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-雪球(snowball)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "8241278f-7cac-404c-942a-b02159e0d879",
+      "rawTextureUuid": "a433d645-77c5-4482-bc7e-5e604ac8061b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": -3.5,
+      "trimX": 26,
+      "trimY": 36,
+      "width": 77,
+      "height": 50,
+      "rawWidth": 114,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

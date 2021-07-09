@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3ddcd7d4-0f14-4317-96af-b8963788d9a4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 260,
+  "height": 220,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-泥傀儡攻击3(MudGolem__爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "c5dd7d13-f267-4027-ade2-3233df99ec85",
+      "rawTextureUuid": "3ddcd7d4-0f14-4317-96af-b8963788d9a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 27,
+      "width": 232,
+      "height": 164,
+      "rawWidth": 260,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

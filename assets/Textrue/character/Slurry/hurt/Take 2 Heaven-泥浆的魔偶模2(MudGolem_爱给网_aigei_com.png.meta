@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "79785a8c-8afe-434e-aa5b-f5bcc194a0b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 260,
+  "height": 220,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-泥浆的魔偶模2(MudGolem_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "e71755a9-cb37-4ab2-ac71-a322b1f70e41",
+      "rawTextureUuid": "79785a8c-8afe-434e-aa5b-f5bcc194a0b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 5,
+      "trimX": 27,
+      "trimY": 15,
+      "width": 213,
+      "height": 180,
+      "rawWidth": 260,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d4223fe3-13d4-4abe-9ce3-e06176c56130",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 380,
+  "height": 290,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-BonesC 系列2(Bones_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "a1feca59-fe72-4874-babd-1cb9ef026c13",
+      "rawTextureUuid": "d4223fe3-13d4-4abe-9ce3-e06176c56130",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 33,
+      "offsetY": 3,
+      "trimX": 125,
+      "trimY": 10,
+      "width": 196,
+      "height": 264,
+      "rawWidth": 380,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

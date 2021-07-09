@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3f2cb8c8-984f-42fc-ac55-d9a8758a1e15",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 409,
+  "height": 672,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-战斗结果失去(BattleRes_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "5a4d067a-41e7-4f43-b32a-c5b3c785aa1a",
+      "rawTextureUuid": "3f2cb8c8-984f-42fc-ac55-d9a8758a1e15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 22,
+      "width": 398,
+      "height": 630,
+      "rawWidth": 409,
+      "rawHeight": 672,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

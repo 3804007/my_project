@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "57fd43c5-c478-433a-bf77-a0255c017679",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 375,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-GavielG 斜线向上2": {
+      "ver": "1.0.4",
+      "uuid": "57fd43c5-c478-433a-bf77-a0255c017679@6c48a",
+      "rawTextureUuid": "57fd43c5-c478-433a-bf77-a0255c017679",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6,
+      "offsetY": -23.5,
+      "trimX": 145,
+      "trimY": 103,
+      "width": 172,
+      "height": 216,
+      "rawWidth": 450,
+      "rawHeight": 375,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

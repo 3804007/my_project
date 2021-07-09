@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Bloodvision",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7be3bf24-0e17-472d-99d4-202887c02cbd"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "c030441a-a5e3-43b3-be3e-42bc8d673cc2"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "c520d595-58e1-4248-9ae1-8b5ad568e0fb"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "412fdbfe-2bd0-4c9a-987c-4bf32a616c26"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "77d179ae-9ff2-4460-abc8-f974b4639220",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3064,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-BG 峡谷一天-2(BG_Can_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "d5a57f8e-98c3-4e1f-89eb-072e1999664e",
+      "rawTextureUuid": "77d179ae-9ff2-4460-abc8-f974b4639220",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -47.5,
+      "trimX": 0,
+      "trimY": 95,
+      "width": 3064,
+      "height": 625,
+      "rawWidth": 3064,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

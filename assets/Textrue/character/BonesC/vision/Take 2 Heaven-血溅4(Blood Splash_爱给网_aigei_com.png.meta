@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "23dad3bc-94b4-4f9a-94ae-9b554082f2a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 189,
+  "height": 187,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-血溅4(Blood Splash_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "412fdbfe-2bd0-4c9a-987c-4bf32a616c26",
+      "rawTextureUuid": "23dad3bc-94b4-4f9a-94ae-9b554082f2a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -21.5,
+      "offsetY": 9,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 146,
+      "height": 169,
+      "rawWidth": 189,
+      "rawHeight": 187,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

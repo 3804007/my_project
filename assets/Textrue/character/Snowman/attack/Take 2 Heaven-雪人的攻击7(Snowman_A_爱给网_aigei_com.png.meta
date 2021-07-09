@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dc004077-30c3-4bca-9631-cad3fd82df12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 310,
+  "height": 210,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-雪人的攻击7(Snowman_A_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "3dca6b80-9b5f-4d61-ac04-6e12721e9dfe",
+      "rawTextureUuid": "dc004077-30c3-4bca-9631-cad3fd82df12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9.5,
+      "offsetY": -6,
+      "trimX": 77,
+      "trimY": 22,
+      "width": 137,
+      "height": 178,
+      "rawWidth": 310,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

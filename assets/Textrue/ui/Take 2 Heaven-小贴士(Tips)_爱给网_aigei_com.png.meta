@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a0f9ac2c-7984-4069-bbe0-ab1641a9a347",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 140,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-小贴士(Tips)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "2b7d4bc0-fb92-400c-90d1-cd60c1e8df8d",
+      "rawTextureUuid": "a0f9ac2c-7984-4069-bbe0-ab1641a9a347",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": 4.5,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 488,
+      "height": 125,
+      "rawWidth": 500,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

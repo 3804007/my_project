@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9bc32d32-7e4f-412e-b026-a2365e9b43a4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 137,
+  "height": 137,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-Graviel 符号(Gravi_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "105e15da-d68f-4c45-947c-dde6626f3ad8",
+      "rawTextureUuid": "9bc32d32-7e4f-412e-b026-a2365e9b43a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 17,
+      "trimY": 12,
+      "width": 104,
+      "height": 113,
+      "rawWidth": 137,
+      "rawHeight": 137,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

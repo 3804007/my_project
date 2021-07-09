@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e52ff016-ffdb-4cca-a0d9-57c8f8d83763",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-Whirhwind_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "ba72d92c-8942-431b-ba2e-4d0f9d1710bc",
+      "rawTextureUuid": "e52ff016-ffdb-4cca-a0d9-57c8f8d83763",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -18,
+      "trimX": 46,
+      "trimY": 64,
+      "width": 89,
+      "height": 88,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

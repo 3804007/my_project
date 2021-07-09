@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c7fadc9d-14a0-4091-ae7b-4a2057b894a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 560,
+  "height": 373,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-暴击伤害4(DamageCrit_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "dc0c614d-2f35-4ead-929a-7a69c41bc50c",
+      "rawTextureUuid": "c7fadc9d-14a0-4091-ae7b-4a2057b894a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 44,
+      "offsetY": -53.5,
+      "trimX": 187,
+      "trimY": 111,
+      "width": 274,
+      "height": 258,
+      "rawWidth": 560,
+      "rawHeight": 373,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

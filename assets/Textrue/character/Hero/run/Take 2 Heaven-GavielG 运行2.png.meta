@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a87b046c-1ad7-4767-9ec3-cbf77d2b915a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 375,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-GavielG 运行2": {
+      "ver": "1.0.4",
+      "uuid": "a87b046c-1ad7-4767-9ec3-cbf77d2b915a@6c48a",
+      "rawTextureUuid": "a87b046c-1ad7-4767-9ec3-cbf77d2b915a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -40,
+      "offsetY": -21,
+      "trimX": 57,
+      "trimY": 104,
+      "width": 256,
+      "height": 209,
+      "rawWidth": 450,
+      "rawHeight": 375,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bffe7635-9534-45e7-806e-1f8ba871f539",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 140,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-人物 头 Graviel(Cha_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "d96e2711-c93e-469f-bafa-02fe59242897",
+      "rawTextureUuid": "bffe7635-9534-45e7-806e-1f8ba871f539",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": 0.5,
+      "trimX": 18,
+      "trimY": 21,
+      "width": 94,
+      "height": 97,
+      "rawWidth": 140,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

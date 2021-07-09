@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "90140d36-ae4c-458c-b0e6-cd427b2ef18a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3064,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-BG 圣诞夜-4(BG_Chri_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "a3f6607f-f5b9-43aa-963b-a401bd0903dd",
+      "rawTextureUuid": "90140d36-ae4c-458c-b0e6-cd427b2ef18a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -297,
+      "trimX": 0,
+      "trimY": 594,
+      "width": 3064,
+      "height": 126,
+      "rawWidth": 3064,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

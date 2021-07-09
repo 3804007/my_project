@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "678d44b5-85d7-40d3-a060-689e6328ca9c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 375,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-GavielG 组合5(Gavi_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "e7fd3d15-3064-4986-86db-876b9c83e6d2",
+      "rawTextureUuid": "678d44b5-85d7-40d3-a060-689e6328ca9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16.5,
+      "offsetY": -39.5,
+      "trimX": 87,
+      "trimY": 114,
+      "width": 309,
+      "height": 226,
+      "rawWidth": 450,
+      "rawHeight": 375,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

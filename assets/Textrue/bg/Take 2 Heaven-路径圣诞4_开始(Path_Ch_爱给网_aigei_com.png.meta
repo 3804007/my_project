@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "66152db1-b7a9-461c-9942-553da05bf323",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3064,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-路径圣诞4_开始(Path_Ch_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "ed7f8fac-629b-4f02-895a-b1805b15e72e",
+      "rawTextureUuid": "66152db1-b7a9-461c-9942-553da05bf323",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3064,
+      "height": 720,
+      "rawWidth": 3064,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

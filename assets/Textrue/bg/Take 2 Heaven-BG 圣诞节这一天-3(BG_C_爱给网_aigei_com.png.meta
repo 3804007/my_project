@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e1e2707a-2442-45f6-bbb3-24480fff7917",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3064,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-BG 圣诞节这一天-3(BG_C_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "9ef71430-aa66-41cd-9abe-fbfbd6c45b81",
+      "rawTextureUuid": "e1e2707a-2442-45f6-bbb3-24480fff7917",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 172,
+      "offsetY": 37,
+      "trimX": 615,
+      "trimY": 125,
+      "width": 2178,
+      "height": 396,
+      "rawWidth": 3064,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

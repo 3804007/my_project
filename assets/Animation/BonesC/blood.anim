@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blood",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "30599e4a-0aa2-4293-b39e-0e86c9db7d18"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "8cb5224a-08fd-472f-8b57-7188b08db413"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "30599e4a-0aa2-4293-b39e-0e86c9db7d18"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "2cd96d1d-4cf2-46e1-b026-e7ed66f5c3a0"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8cb5224a-08fd-472f-8b57-7188b08db413"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "30599e4a-0aa2-4293-b39e-0e86c9db7d18"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "2cd96d1d-4cf2-46e1-b026-e7ed66f5c3a0"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "8cb5224a-08fd-472f-8b57-7188b08db413"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "30599e4a-0aa2-4293-b39e-0e86c9db7d18"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.8,
+          "value": -1000
+        }
+      ],
+      "y": [],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.1,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

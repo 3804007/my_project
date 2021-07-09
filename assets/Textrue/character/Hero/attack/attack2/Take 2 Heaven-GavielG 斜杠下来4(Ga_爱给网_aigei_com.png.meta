@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "00bd59a6-68b2-422d-b0f4-f490a2708e62",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 375,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-GavielG 斜杠下来4(Ga_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "5b992d11-6c69-4c4b-99d4-d4dd887b7dcd",
+      "rawTextureUuid": "00bd59a6-68b2-422d-b0f4-f490a2708e62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 23.5,
+      "offsetY": -51,
+      "trimX": 85,
+      "trimY": 122,
+      "width": 327,
+      "height": 233,
+      "rawWidth": 450,
+      "rawHeight": 375,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

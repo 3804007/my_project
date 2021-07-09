@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "brave",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8a2cccbf-2d61-4600-bc94-fd8f4633a19a"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "16aaa299-24c1-41ef-9c6b-6c5358cb928d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d75a43c6-056d-476d-9343-16ab2707e624"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "58108619-3e1b-40c9-acf3-ed78578898c9"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a805998f-fd42-4d2c-83f4-a2f9d3078be2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

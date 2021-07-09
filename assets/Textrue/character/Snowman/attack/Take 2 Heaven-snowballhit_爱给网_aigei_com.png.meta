@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fade7f3d-fdd9-41b1-9419-4bd6adc2e85e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 114,
+  "height": 115,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-snowballhit_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "2bbec63b-4449-40b4-9d6e-f7a6baef5ab2",
+      "rawTextureUuid": "fade7f3d-fdd9-41b1-9419-4bd6adc2e85e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -2,
+      "trimX": 11,
+      "trimY": 25,
+      "width": 86,
+      "height": 69,
+      "rawWidth": 114,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

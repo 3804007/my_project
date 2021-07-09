@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f51c4881-ce7c-4818-a4f3-f229a4bcbaa0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 560,
+  "height": 373,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-损伤3(Damage3)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "19171315-37ce-4170-9f51-c97156c8d14d",
+      "rawTextureUuid": "f51c4881-ce7c-4818-a4f3-f229a4bcbaa0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -58,
+      "offsetY": 12,
+      "trimX": 86,
+      "trimY": 33,
+      "width": 272,
+      "height": 283,
+      "rawWidth": 560,
+      "rawHeight": 373,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

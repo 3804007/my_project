@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e82e9e43-36b2-4edd-bcfa-4c2a2ba8b3fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 150,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-TopUI_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "d38a2414-56bd-49a5-af74-5c9a047ec1dd",
+      "rawTextureUuid": "e82e9e43-36b2-4edd-bcfa-4c2a2ba8b3fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 150,
+      "rawWidth": 1280,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

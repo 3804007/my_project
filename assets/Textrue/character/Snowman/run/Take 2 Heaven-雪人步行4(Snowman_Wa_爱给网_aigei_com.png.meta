@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b5a3247d-accd-4b72-b0c1-37cc58f6de51",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 310,
+  "height": 210,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-雪人步行4(Snowman_Wa_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "0c02a2a2-b2dc-4abc-8d34-60a8ed101718",
+      "rawTextureUuid": "b5a3247d-accd-4b72-b0c1-37cc58f6de51",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6.5,
+      "offsetY": -4.5,
+      "trimX": 75,
+      "trimY": 19,
+      "width": 173,
+      "height": 181,
+      "rawWidth": 310,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

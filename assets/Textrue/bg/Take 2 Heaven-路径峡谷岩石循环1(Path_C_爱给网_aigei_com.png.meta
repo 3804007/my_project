@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "efd3d48a-ac14-48e8-8f22-c5cb2731f7c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3064,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "Take 2 Heaven-路径峡谷岩石循环1(Path_C_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "9965cab7-e61a-457c-9f8e-d41e417a99da",
+      "rawTextureUuid": "efd3d48a-ac14-48e8-8f22-c5cb2731f7c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -33.5,
+      "trimX": 0,
+      "trimY": 67,
+      "width": 3064,
+      "height": 653,
+      "rawWidth": 3064,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
