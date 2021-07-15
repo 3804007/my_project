@@ -18,6 +18,8 @@ export default class NewClass extends cc.Component {
   lifeprogress: cc.ProgressBar;
 
   onLoad() {
+    this.node.zIndex = 9999;
+
     if (cc.isValid(cc.find("Canvas/Hero"), true))
       this.Hero = cc.find("Canvas/Hero").getComponent("Hero");
 
