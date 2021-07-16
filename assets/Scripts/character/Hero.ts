@@ -11,11 +11,13 @@ export default class Hero extends cc.Component {
   anima: string;
   heroAni: cc.Animation;
   heroState;
-  combo: number;
-  isHit: boolean;
-  other: any;
   score: number;
   initialspeed: number;
+  hp: number;
+
+  combo: number;
+  isHit: boolean;
+  isZuhe: boolean;
 
   isPali: boolean;
   kCooling: number;
@@ -29,7 +31,7 @@ export default class Hero extends cc.Component {
   speed: number = 5;
 
   @property
-  hp: number = 100;
+  Maxhp: number = 100;
 
   @property(cc.Prefab)
   vision: cc.Prefab;
@@ -40,8 +42,10 @@ export default class Hero extends cc.Component {
     this.anima = "idle";
     this.isHit = false;
     this.isPali = false;
+    this.isZuhe = false;
     this.score = 0;
     this.initialspeed = this.speed;
+    this.hp = this.Maxhp;
 
     this.combo = 0;
     this.kCooling = 0;
@@ -79,6 +83,7 @@ export default class Hero extends cc.Component {
       data.name == "zuhe" ||
       data.name == "yinzhang"
     ) {
+      if (data.name == "zuhe") this.isZuhe = false;
       this.node.getComponent(cc.BoxCollider).tag = 0;
       this.heroState = State.stand;
       this.speed = 5;
@@ -240,6 +245,7 @@ export default class Hero extends cc.Component {
             Input[cc.macro.KEY.u]
               ? (this.node.getComponent(cc.BoxCollider).tag = 2)
               : (this.node.getComponent(cc.BoxCollider).tag = 1);
+            if (Input[cc.macro.KEY.l]) this.isZuhe = true;
             this.heroState = State.attack;
           }
           break;

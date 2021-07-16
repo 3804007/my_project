@@ -14,6 +14,7 @@ export default class Snowman extends cc.Component {
   anima: string;
   tt: number;
   attackspace: number;
+  hp: number;
 
   moveLeft: boolean;
   moveRight: boolean;
@@ -25,7 +26,7 @@ export default class Snowman extends cc.Component {
   playerNode: cc.Node;
 
   @property
-  hp: number = 30;
+  Maxhp: number = 30;
 
   @property(cc.Prefab)
   Snowball: cc.Prefab;
@@ -46,6 +47,7 @@ export default class Snowman extends cc.Component {
 
     this.tt = 0;
     this.attackspace = 0;
+    this.hp = this.Maxhp;
 
     this.speed = 1.3;
     this.initialspeed = this.speed;
@@ -77,7 +79,7 @@ export default class Snowman extends cc.Component {
 
           setTimeout(() => {
             this.isAttack = false;
-          }, 300);
+          }, 1000);
         }
       },
       this
@@ -95,7 +97,7 @@ export default class Snowman extends cc.Component {
   }
 
   attack() {
-    if (this.attackspace >= 1.5) {
+    if (this.attackspace >= 2) {
       this.setAni("attack");
       this.attackspace = 0;
       this.isAttack = true;
@@ -212,7 +214,7 @@ export default class Snowman extends cc.Component {
   }
 
   update(dt) {
-    this.lifeprogress.progress = this.hp / 30;
+    this.lifeprogress.progress = this.hp / this.Maxhp;
     //状态切换
     this.tt += dt;
     this.attackspace += dt;

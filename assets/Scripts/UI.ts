@@ -117,7 +117,7 @@ export default class NewClass extends cc.Component {
       "Score:" + String(score);
     this.Gravi();
 
-    this.lifeprogress.progress = this.Hero.hp / 100;
+    this.lifeprogress.progress = this.Hero.hp / this.Hero.Maxhp;
 
     this.k.opacity =
       ((this.Hero.kCoolingMax - this.Hero.kCooling) / this.Hero.kCoolingMax) *

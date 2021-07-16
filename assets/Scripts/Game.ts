@@ -50,7 +50,6 @@ export default class NewClass extends cc.Component {
     let p = setInterval(() => {
       if (!cc.isValid(newPrefab, true)) {
         this.allNum--;
-        console.log(this.allNum);
         clearInterval(p);
       }
     }, 800);

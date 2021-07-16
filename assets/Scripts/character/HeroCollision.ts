@@ -24,7 +24,11 @@ export default class HeroCollision extends cc.Component {
     this.losehealth = 0;
     this.addhealth = 0;
 
-    if (other.node.group == "EnemyArms" && other.tag == 1) {
+    if (
+      other.node.group == "EnemyArms" &&
+      other.tag == 1 &&
+      !this.Hero.isZuhe
+    ) {
       if (other.name == "Blood<BoxCollider>") {
         cc.isValid(other.node, true) && other.node.destroy();
         this.losehealth = 12 + Math.floor(Math.random() * 4);
@@ -50,10 +54,10 @@ export default class HeroCollision extends cc.Component {
     } else if (other.node.group == "Add") {
       other.node.destroy();
       if (other.name == "LesserHea<BoxCollider>") {
-        this.addhealth = 10 + Math.floor(Math.random() * 5);
+        this.addhealth = 20 + Math.floor(Math.random() * 10);
         this.Hero.add(this.addhealth);
       } else if (other.name == "SurvivalKit<BoxCollider>") {
-        this.addhealth = 25 + Math.floor(Math.random() * 5);
+        this.addhealth = 50 + Math.floor(Math.random() * 10);
       }
       this.Hero.add(this.addhealth);
       this.createReview(this.addhealth, "heroadd/");

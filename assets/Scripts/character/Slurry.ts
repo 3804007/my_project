@@ -13,18 +13,19 @@ export default class Slurry extends cc.Component {
   anima: string;
   tt: number;
   attackspace: number;
+  hp: number;
 
   moveLeft: boolean;
   moveRight: boolean;
   moveTop: boolean;
   moveDown: boolean;
   speed: number;
-  initialspeed:number
+  initialspeed: number;
 
   playerNode: cc.Node;
 
   @property
-  hp: number = 80;
+  Maxhp: number = 80;
 
   @property(cc.ProgressBar)
   lifeprogress: cc.ProgressBar;
@@ -38,6 +39,7 @@ export default class Slurry extends cc.Component {
     this.enemyAni = this.node.getComponent(cc.Animation);
     this.tt = 0;
     this.attackspace = 0;
+    this.hp = this.Maxhp;
 
     this.speed = 0.8;
     this.initialspeed = this.speed;
@@ -178,7 +180,7 @@ export default class Slurry extends cc.Component {
   }
 
   update(dt) {
-    this.lifeprogress.progress = this.hp / 80;
+    this.lifeprogress.progress = this.hp / this.Maxhp;
     //状态切换
 
     this.tt += dt;
