@@ -27,6 +27,8 @@ export default class Hero extends cc.Component {
   uCooling: number;
   uCoolingMax: number;
 
+  isTouch: boolean;
+
   @property
   speed: number = 5;
 
@@ -147,36 +149,6 @@ export default class Hero extends cc.Component {
     this.setAni("hurt");
   }
 
-  attack() {
-    if (Input[cc.macro.KEY.j]) {
-      if (this.combo == 0) {
-        this.setAni("attack1");
-      } else if (this.combo == 1) {
-        this.setAni("attack2");
-      }
-    } else if (Input[cc.macro.KEY.k] && this.kCooling <= 0) {
-      this.isPali = true;
-      this.setAni("pali");
-      this.kCooling = this.kCoolingMax;
-      setTimeout(() => {
-        this.isPali = false;
-      }, 5000);
-    } else if (Input[cc.macro.KEY.l] && this.lCooling <= 0) {
-      this.setAni("zuhe");
-      this.lCooling = this.lCoolingMax;
-      this.node.x = this.node.x + this.node.scaleX * 50;
-      setTimeout(() => {
-        this.node.x = this.node.x + this.node.scaleX * 50;
-        setTimeout(() => {
-          this.node.x = this.node.x + this.node.scaleX * 50;
-        }, 400);
-      }, 400);
-    } else if (Input[cc.macro.KEY.u] && this.uCooling <= 0) {
-      this.setAni("yinzhang");
-      this.uCooling = this.uCoolingMax;
-    }
-  }
-
   move() {
     let scaleX = Math.abs(this.node.scaleX);
     if (
@@ -203,6 +175,8 @@ export default class Hero extends cc.Component {
         this.node.x += this.speed;
         this.setAni("run");
       }
+    } else if (this.isTouch) {
+      this.setAni("run");
     } else {
       this.setAni("idle");
     }
@@ -220,6 +194,59 @@ export default class Hero extends cc.Component {
     this.score += score;
   }
 
+  J() {
+    this.heroState = State.attack;
+    this.node.getComponent(cc.BoxCollider).tag = 1;
+
+    if (this.combo == 0) {
+      this.setAni("attack1");
+    } else if (this.combo == 1) {
+      this.setAni("attack2");
+    }
+  }
+
+  K() {
+    if (this.kCooling <= 0) {
+      this.heroState = State.attack;
+      this.node.getComponent(cc.BoxCollider).tag = 1;
+
+      this.isPali = true;
+      this.setAni("pali");
+      this.kCooling = this.kCoolingMax;
+      setTimeout(() => {
+        this.isPali = false;
+      }, 5000);
+    }
+  }
+
+  L() {
+    if (this.lCooling <= 0) {
+      this.heroState = State.attack;
+      this.node.getComponent(cc.BoxCollider).tag = 1;
+      this.isZuhe = true;
+
+      this.setAni("zuhe");
+      this.lCooling = this.lCoolingMax;
+      this.node.x = this.node.x + this.node.scaleX * 50;
+      setTimeout(() => {
+        this.node.x = this.node.x + this.node.scaleX * 50;
+        setTimeout(() => {
+          this.node.x = this.node.x + this.node.scaleX * 50;
+        }, 400);
+      }, 400);
+    }
+  }
+
+  U() {
+    if (this.uCooling <= 0) {
+      this.heroState = State.attack;
+      this.node.getComponent(cc.BoxCollider).tag = 1;
+
+      this.setAni("yinzhang");
+      this.uCooling = this.uCoolingMax;
+    }
+  }
+
   update(dt) {
     //技能cd
     if (this.kCooling > 0) {
@@ -231,31 +258,26 @@ export default class Hero extends cc.Component {
     if (this.uCooling > 0) {
       this.uCooling -= dt;
     }
-
     //状态切换
     if (this.isHit == false) {
       switch (this.heroState) {
         case State.stand: {
-          if (
-            Input[cc.macro.KEY.j] ||
-            (Input[cc.macro.KEY.k] && this.kCooling <= 0) ||
-            (Input[cc.macro.KEY.l] && this.lCooling <= 0) ||
-            (Input[cc.macro.KEY.u] && this.uCooling <= 0)
-          ) {
-            Input[cc.macro.KEY.u]
-              ? (this.node.getComponent(cc.BoxCollider).tag = 2)
-              : (this.node.getComponent(cc.BoxCollider).tag = 1);
-            if (Input[cc.macro.KEY.l]) this.isZuhe = true;
-            this.heroState = State.attack;
+          if (Input[cc.macro.KEY.j]) {
+            this.J();
+          } else if (Input[cc.macro.KEY.k]) {
+            this.K();
+          } else if (Input[cc.macro.KEY.l]) {
+            this.L();
+          } else if (Input[cc.macro.KEY.u]) {
+            this.U();
           }
           break;
         }
       }
     }
 
-    if (this.heroState == State.attack) {
-      this.attack();
-    } else if (this.heroState == State.stand) {
+    console.log(this.heroState);
+    if (this.heroState == State.stand) {
       this.move();
     }
   }
